@@ -1,3 +1,9 @@
+pip install streamlit
+pip install stmol
+pip install py3Dmol
+pip install requests
+pip install biotite
+
 import streamlit as st
 from stmol import showmol
 import py3Dmol
